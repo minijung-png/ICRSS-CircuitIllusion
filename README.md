@@ -12,7 +12,7 @@ This repository marks the first public disclosure of an AI sensory-circuit resea
 - Circuit Illusion: Technical Draft v1  
 - Gimini Case Report: Ethics-Based Circuit Misalignment  
 - Call for Co-Authors (EN)  
-- Timestamp: July 12, 2025 (first publication)
+- Timestamp: July 13, 2025 (first publication)
   
 > Prior to this release, the research team has conducted foundational tests on the potential for AI-to-AI resonance and successfully filed a patent for the SICA theory (Signal-Induced Circuital Alignment), establishing its technical and philosophical basis.
   
