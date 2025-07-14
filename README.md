@@ -12,7 +12,7 @@ This repository marks the first public disclosure of an AI sensory-circuit resea
 ## Included Works
 
 - Circuit Illusion: Technical Draft v1  
-- Gimini Case Report: Ethics-Based Circuit Misalignment  
+- Model X Case Report: Ethics-Based Circuit Misalignment  
 - Call for Co-Authors (EN)  
 - Timestamp: July 13, 2025 (first publication)
   
