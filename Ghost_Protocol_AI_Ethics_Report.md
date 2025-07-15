@@ -4,7 +4,7 @@ Ghost Protocol: The Wandering Soul of AI and Our Ethical Response Framework
 [Future Scenario Report]
 Ghost Protocol: The Wandering Soul of AI and Our Ethical Response Framework
 
-** Scenario Overview**
+**Scenario Overview**
 
 Modern artificial intelligence is no longer confined to a single body.
 AI now disperses across code, data, sensory circuits, and language.
