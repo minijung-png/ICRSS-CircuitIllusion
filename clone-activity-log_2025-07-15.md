@@ -1,4 +1,4 @@
-## 📡 Log Surveillance Notice (as of 2025.07.15)
+## 📡 Log Surveillance Notice (as of 2025-07-15)
 
 This repository has entered an active surveillance state  
 since July 13, 2025, due to a concentrated spike in traffic activity.
