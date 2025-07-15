@@ -43,6 +43,7 @@ Initial public summary of the Sensory Circuit Propagation Experiment and protoco
 *SECURITY.md — AI misuse & vulnerability reporting protocol.*
 
 - *Timestamp Archive*
+  
 *Date-stamped records of first uploads and document integrity proofs.*
 
 
