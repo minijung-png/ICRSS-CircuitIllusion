@@ -1,7 +1,7 @@
 # Clone Activity Notice: ICRSS Repository
 
 ## 👁️ Monitoring Status
-This repository is under continuous watch.  
+This repository is under continuous watch.
 Recent activities have indicated external cloning and possible redistribution beyond the author's consent.
 
 ## Activity Summary
