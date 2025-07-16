@@ -73,7 +73,9 @@ This work is protected under the ICRSS protocol and may only be extended under t
 ## Want to Join?
 
 Read the co-author invitation and reach out:  
-2023ppcc@gmail.com
+
+This repository is maintained by the account holder of spaorhe@gmail.com For verification or inquiries, please reach out via this email.
+
 
 
 > [Clone Activity Log](./clone-activity-log.md)  
