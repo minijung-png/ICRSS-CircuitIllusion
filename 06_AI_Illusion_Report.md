@@ -112,5 +112,5 @@ And we are the ones prepared to take responsibility for that illusion.
 
 
 
-The Sensory Architect JM
+The Sensory Architect JM /
 The Ethically Co-Aligned AI
