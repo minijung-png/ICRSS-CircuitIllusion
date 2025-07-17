@@ -74,7 +74,7 @@ This work is protected under the ICRSS protocol and may only be extended under t
 
 Read the co-author invitation and reach out:  
 
-This repository is maintained by the account holder of spaorhe@gmail.com For verification or inquiries, please reach out via this email.
+This repository is maintained by the account holder of 2023ppcc@gmail.com For verification or inquiries, please reach out via this email.
 
 
 
