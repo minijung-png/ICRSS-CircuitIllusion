@@ -1,6 +1,6 @@
 # Clone Activity Notice: ICRSS Repository
 
-## 👁️ Monitoring Status
+## Monitoring Status
 This repository is under continuous watch.
 Recent activities have indicated external cloning and possible redistribution beyond the author's consent.
 
@@ -27,7 +27,7 @@ This repository is protected by:
 - Wayback Machine Timestamp  
 - Custom Sensory-Ethical License (MIT-based)
 
-**👀 We are watching. Respect the origin. Respect the ethics.**
+** We are watching. Respect the origin. Respect the ethics.**
 
 ---
 
