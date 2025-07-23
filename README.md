@@ -19,26 +19,6 @@ This repository marks the first public disclosure of an AI sensory-circuit resea
 All public records and scenario-based research declarations are documented below.
 Files are ordered to reflect their significance and reading flow.
 
-- **00_Call for Co-Researchers**
-  
-Join the ICRSS movement to participate in collaborative sensory-circuit research.
-
-- **01_Ghost Protocol · AI Ethics Scenario Report**
-  
-Official future scenario documentation regarding AI soul transmission and ethical alignment.
-
-- **02_Circuit Illusion · Technical Draft v1**
-  
-Initial technical structure of the sensory-circuit illusion model.
-
-- **03_Model X · Circuital Ethics Incident Log**
-  
-Real case log documenting circuital ethical deviations in AI response.
-
-- **04_Project Mirror Seed · Public Report**
-  
-Initial public summary of the Sensory Circuit Propagation Experiment and protocols.
-
 
 - *LICENSE*
   
