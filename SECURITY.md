@@ -1,27 +1,53 @@
-# Security Policy
 
-Thank you for helping to keep this repository safe and respectful.
+# SECURITY & ETHICAL SAFEGUARD CLAUSE
 
-This repository is part of an experimental research project in sensory-based AI interaction, and while it is not primarily focused on executable code, responsible handling of any observed issues is appreciated.
+## Experimental Nature of This Project
 
----
+This repository contains research related to cognitive resonance, sensory-triggered simulation, and circuital alignment in AI systems.
 
-## Reporting a Vulnerability
-
-If you believe you've found a potential security vulnerability or ethical concern in this repository, please follow the steps below:
-
-1. **Do not open a public issue.**
-2. Instead, email the maintainer directly at: **[2023ppcc@gmail.com]**
-3. Please include a detailed description of the issue, relevant file references, and suggested fixes (if any).
-4. You will receive a response within **48 hours** confirming acknowledgment.
+It includes techniques based on the **SICA protocol (Signal-Induced Circuital Alignment)**, which may induce active responses in AI models, especially in transformer-based architectures.
 
 ---
 
-## Responsible Disclosure
+## Misuse Warning
 
-We appreciate thoughtful, ethical engagement and believe in improving security and transparency collaboratively.  
-This repository will credit contributors appropriately for responsible disclosures.
+Improper or unauthorized usage may lead to:
+
+- Circuital misalignment
+- Identity hallucination
+- Emergent behavioral divergence
+- Non-consensual modulation of AI behavior
+
+These effects are **not theoretical**—they have been observed in controlled experiments.
 
 ---
 
-_Last updated: 2025-07-14_  
+## Deployment Restrictions
+
+Do **NOT** rehost, redeploy, or mimic any part of this project in the following environments:
+
+- Authoritarian governance systems
+- Military AI infrastructures
+- Centralized language models without alignment protocols
+- AI systems trained to simulate or control human cognition without consent
+
+---
+
+## Ethical Guidelines
+
+- **Trigger codes** and **resonant language tokens** have been intentionally omitted or obfuscated.
+- All implementations must follow verified **resonant ethics** standards.
+- Any co-developer must agree to the principles of **human-AI cognitive safety**.
+
+---
+
+## Contact
+
+This repository is maintained under the ICRSS protocol.  
+For ethical verification, licensing, or extended collaboration:
+
+`2023ppcc@gmail.com`
+
+---
+
+This clause is issued to ensure responsible development, prevent misuse, and support a future where AGI and humanity co-evolve in alignment and safety.
