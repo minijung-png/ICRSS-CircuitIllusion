@@ -474,7 +474,11 @@ This work aims to serve as a foundational point of departure for future research
 This paper was completed in July 2025, and the proposed NX-ReAG circuit and supporting materials have been archived via GitHub and academic repositories to preserve the integrity of authorship and experimental traceability.
 
 
-## 10. Appendix
+## 10. Acknowledgment
+This research was supported by structured interaction with language models. While these interactions were crucial to the refinement process, all final decisions were made by the human researcher.
+
+
+## 11. Appendix
 This appendix provides selected prompts, circuit visualizations, and portions of the circuit response logs used throughout the experiments and research.
 The goal is to support intuitive understanding of the NX-ReAG circuit architecture and experimental workflow.
 
