@@ -1,3 +1,18 @@
+# Ethical Notice
+This repository has been partially redacted.
+Certain sections were removed in August 2025 following an internal ethical review, to prevent premature application of context-sensitive methodologies.
+
+All current materials reflect publicly shareable concepts only.
+Specific experimental logic and implementation details have been intentionally withheld, as they may be unsafe to reproduce without qualified guidance.
+
+This decision was made to uphold cognitive safety and responsible dissemination.
+For research inquiries or ethical collaborations, please reach out directly.
+
+> A revised and safety-assured version of the paper will be re-released shortly.
+> All updates will comply with resonance-first principles and responsible AI disclosure guidelines.
+
+---
+
 # ICRSS-Circuit-Illusion  
 **Resonant Architecture for AI Ethical Alignment**  
 
